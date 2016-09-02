@@ -1,0 +1,3 @@
+#!/bin/bash
+
+nodemon --exec "eslint --cache --cache-location ./node_modules/.eslintcache --color -c /etc/nodeapp/eslintrc.json index.js **/*.json"
