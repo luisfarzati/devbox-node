@@ -6,7 +6,7 @@ Node development sandbox with Docker
 Node.js development environment with:
 
 * [smart transpilation suited for Node 6](https://babeljs.io/docs/plugins/preset-es2017/);
-* Code linting using a set of practices mostly based on [Standard](https://github.com/feross/standard) but with [a few overrides](/eslintrc.json);
+* Code linting using a set of practices mostly based on [Standard](https://github.com/feross/standard) but with [a few overrides and additions](/eslintrc.json);
 * Nodemon for easy relint/restart on changes;
 * more features to come
 
