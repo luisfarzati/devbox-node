@@ -1,5 +1,5 @@
 ## devbox-node
-Node development sandbox with Docker
+Node development sandbox with Docker. Feedback, suggestions and PRs are very welcomed. :)
 
 ### About
 
